@@ -1,0 +1,6 @@
+{
+  "name": "PromptSUNO - Music Intelligence For Everyone",
+  "description": "Explore, learn, create, and share AI-generated music with prompt guides, interactive sandbox, stems mixer, and audio intelligence tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
